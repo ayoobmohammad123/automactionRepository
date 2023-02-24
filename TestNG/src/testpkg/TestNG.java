@@ -16,4 +16,7 @@ public class TestNG {
 	public void tstt() {
 		System.out.println();
 	}
+	@Test
+	public void ayoob{
+		system.out.println("nahi laga");
 }
